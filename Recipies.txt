@@ -1,11 +1,28 @@
 Hi This is a recipie file
 
-For the below food item
+
+For the below food items
 
 
 Non-Veg
+
 Mutton Legs Paya
 Chicken legs fry
 Prawns Fry
 Fish Fry
+
+
+Veg Recipies
+
+Mirchi Bajji
+Chillu Gare
+Salla Punugulu
+Ullipay Mirchi Bajji
+Aaalu Fry
+French Fries
+Corn Samsosa
+Gulab Jam
+
+
+
 
